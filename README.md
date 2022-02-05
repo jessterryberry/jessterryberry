@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessterryberry, a Computer Programming Student at Niagara College.
-- 👀 I’m interested in data engineering.
-- 🌱 I’m currently learning C#, Python, and SQL
-- 💞️ I’m looking to collaborate on not much right now, as I am still learning! If you have any small projects that are Python and SQL focused, I may be interested.
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning C# (.NetCore/.Net Framework/MVC) and have an interest in learning Java.
+- 💞️ I’m looking to collaborate on not much right now, as I am still learning! If you have any small projects that are JavaScript or C#, I may be interested.
 - 📫 How to reach me - on twitter. You should be able to find me by looking for the same name :)
 
 <!---
