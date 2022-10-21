@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jessica, a full-time software research associate 👨‍💻 🚀 I recently graduated from Computer Programming at Niagara College 🚀</div>  
   
 
-- 🔭 I’m currently working on a [React Weather App](https://github.com/jessterryberry/weather-react)  
+- 🔭 I’m currently working on a [Spotify Clone](https://github.com/jessterryberry/spotify-clone) via [Clever Programmer](https://medium.com/cleverprogrammer/spotify-clone-using-reactjs-the-ultimate-guide-2a47977a1e4f)
   
 
 - 🌱 I’m currently learning Arduino, and React  
