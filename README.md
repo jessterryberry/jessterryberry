@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Jessica, a full-time software research associate 👨‍💻 🚀 I recently graduated from Computer Programming at Niagara College 🚀</div>  
+### <div align="center">I'm Jessica, a full-time software developer research associate 👨‍💻 🚀 I recently graduated from Computer Programming at Niagara College 🚀</div>  
   
 
-- 🔭 I’m currently working on a [Discord Bot](https://github.com/jessterryberry/bookster-bot) using [Discord.js](https://discordjs.guide/#before-you-begin)
+- 🔭 I’m currently working on a full-stack web application using [Next.js](https://nextjs.org/), [React.js](https://react.dev/), and [TailwindCSS](https://tailwindcss.com/)
   
 
-- 🌱 I’m currently learning Arduino, and React  
+- 🌱 I’m currently learning React, TypeScript, and Arduino (C++) 
   
 
 - ⚡ Fun fact: I was previously a Dental Assistant and changed into the tech field  
