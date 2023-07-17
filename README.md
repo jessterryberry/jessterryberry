@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jessica, a full-time software developer research associate 👨‍💻 🚀 I recently graduated from Computer Programming at Niagara College 🚀</div>  
   
 
-- 🔭 I’m currently working on a full-stack web application using [Next.js](https://nextjs.org/), [React.js](https://react.dev/), and [TailwindCSS](https://tailwindcss.com/)
+- 🔭 I’m currently working on a [Dribble Clone](https://github.com/jessterryberry/grafbase_flexibble) using [Next.js](https://nextjs.org/), [React.js](https://react.dev/), [TailwindCSS](https://tailwindcss.com/), and [Grafbase](https://grafbase.com/)
   
 
 - 🌱 I’m currently learning React, TypeScript, and Arduino (C++) 
