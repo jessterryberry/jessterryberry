@@ -1,4 +1,4 @@
- ### <div align="center">I'm Jessica, a full-time software developer research associate 👨‍💻 I recently graduated from Computer Programming at Niagara College  🚀</div>  
+ ### <div align="center">I'm Jessica, a full-time Digital Experience Specialist at Innovation Factory 👨‍💻 I am a 2022 Computer Programming graduate from Niagara College  🚀</div>  
   
 
 - 🔭 I’m currently working on a [Single Page Application](https://github.com/jessterryberry/AmoreAdore) for a fictional online only romance bookstore called Amore Adore using [React.js](https://react.dev/), and [TailwindCSS](https://tailwindcss.com/)  
